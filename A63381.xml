@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and faithful account of an intire and absolute victory over the French fleet in the West-Indies by two East-India ships and other vessels at Barbadoes, made into men of war with the number of those taken and sunk in the engagement, together with the taking, sacking, and burning several of the French plantations in those parts.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63381</idno>
+            <idno type="STC">Wing T2467</idno>
+            <idno type="STC">ESTC R11884</idno>
+            <idno type="EEBO-CITATION">13798623</idno>
+            <idno type="OCLC">ocm 13798623</idno>
+            <idno type="VID">101889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and faithful account of an intire and absolute victory over the French fleet in the West-Indies by two East-India ships and other vessels at Barbadoes, made into men of war with the number of those taken and sunk in the engagement, together with the taking, sacking, and burning several of the French plantations in those parts.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Naval operations.</term>
+               <term>Barbados --  History.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:101889:1"/>
+            <head>A True and Faithful ACCOUNT Of an Intire and Abſolute VICTORY OVER The French FLEET IN THE WEST-INDIES, BY <hi>Two Eaſt-India Ships,</hi> And other VESSELS, at BARBADOES, Made into MEN of WAR. WITH The Number of thoſe Taken and Sunk in the Engagement, together with the Taking, Sack<g ref="char:EOLhyphen"/>ing, and Burning ſeveral of the <hi>French</hi> Plan<g ref="char:EOLhyphen"/>tations in thoſe parts.</head>
+            <p>YEſterdays Poſt gives Advice from <hi>Briſtol,</hi> that two days before there was arrived a ſmall Veſſel which came directly from the Iſland of <hi>Nevis</hi> in the <hi>Weſt-Indies,</hi> leaving the ſame the beginning of the laſt Month, and Informs, That about 12 or 14 Sail of <hi>French</hi> Veſſels, form'd into Men of War, had, beſides the taking of <hi>St. Chriſtophers,</hi> Infeſted the Coaſt greatly, obſtructing the Traffick and Commerce of the <hi>Engliſh</hi> Plantations, Alarming all the Iſlands with making a Deſcent, whereby they were forced <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſtand continually upon their Guards, and in ſeveral places beat them off <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon their Attempts.</p>
+            <pb n="2" facs="tcp:101889:2"/>
+            <p>'Twas greatly feared that they would have performed ſome conſiderabl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Detriment upon <hi>Nevis,</hi> and ſeveral other leſſer Iſlands, before Aſſiſtanc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could come to them from <hi>England:</hi> But it ſo Fortunately hapned that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the <hi>Eaſt-India</hi> Company's Ships, <hi>Charles</hi> II. and the <hi>London,</hi> Veſſels o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſiderable Burthen, being at <hi>Sancta Hellena,</hi> in their Return to <hi>England</hi> from <hi>India,</hi> and there hearing of the War between <hi>England</hi> and <hi>France,</hi> and therefore conſidering how dangerous it might be to make a ſafe paſſage t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>London,</hi> ſince they alſo underſtood that the Kingdom of <hi>Ireland,</hi> by which they uſually Sailed, was in poſſeſſion of the <hi>French,</hi> they took a Reſolution to make to the Iſland of <hi>Barbadoes,</hi> where they were joyfully received, i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopes to find a Convoy there, or ſtay till ſome of His Majeſties Ships arri<g ref="char:EOLhyphen"/>ved to accompany them to <hi>England.</hi>
+            </p>
+            <p>In the <hi>Interim,</hi> the Noiſe of the <hi>French</hi> continuing on the Coaſt, the Aſ<g ref="char:EOLhyphen"/>ſembly of the Iſland met, and Repreſenting to Captain <hi>Andrews,</hi> and th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Commander of the <hi>Eaſt-India</hi> Ships, how ſerviceable it would be both to King and Countrey, to unlade their Effects, converting their Ships into Men of War, and ſtand after the <hi>French,</hi> promiſing at the ſame time, that they would afford all poſſible Aſſiſtance of Men, and other Shipping; That they would make it their utmoſt Endeavour ſo to repreſent the Matter t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the King, and Company, that they doubted not but that they ſhould applau<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and confirm the Undertaking.</p>
+            <p>Accordingly the two Captains were prevailed upon to Unfreight their Ships, and become Men of War; and being joined by Seven other ſmalle<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Veſſels, Equipped out by the Plantations, they put to Sea with 2300 Land men on Board, went in ſearch after the <hi>French</hi> Fleet, whom they found nea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>St. Chriſtophers,</hi> and Attacked them, being about the like Number, and in leſs than two hours time Boarded, and took their Admiral, a Ship of 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Guns, and another of 30, ſinking two others of the Fleet: And had un<g ref="char:EOLunhyphen"/>doubtedly deſtroyed the whole, had they not run under the Cannon of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fort.</p>
+            <p>After which, our Fleet made a Deſcent upon <hi>St. Chriſtophers,</hi> which th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>French</hi> lately took from the <hi>Engliſh,</hi> drove all the People to the Woods, kil<g ref="char:EOLunhyphen"/>ling thoſe that made Reſiſtance, ſacked and deſtroyed the greateſt pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof, and after three days returned to their Ships, laden with great Plun<g ref="char:EOLhyphen"/>der and Riches.</p>
+            <p>The ſame Account adds, That this Victorious Fleet of <hi>Barbadians,</hi> t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the great Honour and Reputation of the Iſland, being fluſhed with Succeſs was reſolved to make Efforts on other the <hi>French</hi> Plantations, the like o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which they did to <hi>Martinico, Guadalupa,</hi> &amp;c. And 'tis ſaid they have acqui<g ref="char:EOLhyphen"/>red near 100000 l. of Merchandizes, and Things of Value from their En<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my, returning to <hi>Barbadoes,</hi> laden with Victory and Spoil, to the great En<g ref="char:EOLunhyphen"/>couragement and Preſervation of all the <hi>Engliſh</hi> Plantations, and Terro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Afrightment to the <hi>French.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. C.</hi> near <hi>Fleet-Bridg.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
